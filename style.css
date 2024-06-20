@@ -1,0 +1,59 @@
+.cabeçalho1 {
+    display: flex;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    color: #107300;
+}
+
+.imagem1 {
+    display: block;
+    margin: auto;
+    height: 330px;
+}
+
+.mercearia1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #DC7516;
+}
+
+.açougue1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #F119F5;
+}
+
+.higiene_pessoal1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #E73434;
+}
+
+.feira1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #BECD12;
+}
+
+.Produtos_de_limpeza1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #273DFF;
+}
